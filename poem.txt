@@ -7,3 +7,4 @@ adding indigo
 Blue
 Orange 
 green
+maroon
